@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zadermod:blocks/log_oak_top",
+    "up": "zadermod:blocks/log_oak_top",
+    "north": "zadermod:blocks/log_oak",
+    "east": "zadermod:blocks/log_oak",
+    "south": "zadermod:blocks/log_oak",
+    "west": "zadermod:blocks/log_oak",
+    "particle": "zadermod:blocks/log_oak_top"
+  }
+}

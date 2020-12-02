@@ -1,0 +1,253 @@
+{
+  "id_map": {
+    "DIMENSION": 1,
+    "GUI": 1
+  },
+  "mod_elements": [
+    {
+      "name": "CrystalOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crystal",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Excadiat",
+      "type": "tab",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BronzeOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BronzeBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BronzeIngot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BronzeBlockReceipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BronzeIngotReceipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BronzeIngotFurnace",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IndianOakLog",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IndianOakLeaves",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BronzeArmor",
+      "type": "armor",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BronzeArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BronzeArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BronzeArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RadioactiveMachine",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IndianOak",
+      "type": "structure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Netherium",
+      "type": "dimension",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      }
+    },
+    {
+      "name": "NetheriumArk",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IndianOakPlanks",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IndianOakPlanksReceipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Indian",
+      "type": "biome",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Eucalyptus",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EucalyptusLeaves",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EucalyptusPlanks",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "tile.bronzeblock.name": "Bronze Block",
+      "tile.indianoaklog.name": "Indian Oak Log",
+      "item.crystal.name": "Crystal",
+      "tile.radioactivemachine.name": "Radioactive Machine",
+      "tile.crystalore.name": "Crystal Ore",
+      "tile.bronzeore.name": "Bronze Ore",
+      "tile.eucalyptusleaves.name": "Eucalyptus Leaves",
+      "itemGroup.tabexcadiat": "Excadiat",
+      "item.bronzearmorbody.name": "Bronze Chestplate",
+      "item.bronzearmorhelmet.name": "Bronze Helmet",
+      "item.bronzeingot.name": "Bronze Ingot",
+      "tile.indianoakleaves.name": "Indian Oak Leaves",
+      "tile.eucalyptusplanks.name": "Eucalyptus Planks",
+      "item.bronzearmorlegs.name": "Bronze Leggings",
+      "item.netherium.name": "Flint and steel of Netherium",
+      "tile.netheriumark.name": "Netherium Ark",
+      "tile.indianoakplanks.name": "Indian Oak Planks",
+      "item.bronzearmorboots.name": "Bronze Boots",
+      "tile.eucalyptus.name": "Eucalyptus"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "zadermod",
+    "modName": "ZaderMod",
+    "version": "1.0.0",
+    "author": "Raphael, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "me.aternos.zaderlyl",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

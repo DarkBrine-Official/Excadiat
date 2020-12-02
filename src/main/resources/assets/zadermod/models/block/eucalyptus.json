@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zadermod:blocks/eucalyptus_log_top",
+    "up": "zadermod:blocks/eucalyptus_log_top",
+    "north": "zadermod:blocks/eucalyptus_log",
+    "east": "zadermod:blocks/eucalyptus_log",
+    "south": "zadermod:blocks/eucalyptus_log",
+    "west": "zadermod:blocks/eucalyptus_log",
+    "particle": "zadermod:blocks/eucalyptus_log_top"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zadermod:blocks/cuivre_ore",
+    "up": "zadermod:blocks/cuivre_ore",
+    "north": "zadermod:blocks/cuivre_ore",
+    "east": "zadermod:blocks/cuivre_ore",
+    "south": "zadermod:blocks/cuivre_ore",
+    "west": "zadermod:blocks/cuivre_ore",
+    "particle": "zadermod:blocks/cuivre_ore"
+  }
+}

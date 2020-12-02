@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "zadermod:blocks/leaves_eucalyptus",
+    "particle": "zadermod:blocks/leaves_eucalyptus"
+  }
+}

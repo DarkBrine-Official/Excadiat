@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zadermod:blocks/crystal_ore",
+    "up": "zadermod:blocks/crystal_ore",
+    "north": "zadermod:blocks/crystal_ore",
+    "east": "zadermod:blocks/crystal_ore",
+    "south": "zadermod:blocks/crystal_ore",
+    "west": "zadermod:blocks/crystal_ore",
+    "particle": "zadermod:blocks/crystal_ore"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zadermod:blocks/netherium_dirt",
+    "up": "zadermod:blocks/netherium_dirt",
+    "north": "zadermod:blocks/netherium_dirt",
+    "east": "zadermod:blocks/netherium_dirt",
+    "south": "zadermod:blocks/netherium_dirt",
+    "west": "zadermod:blocks/netherium_dirt",
+    "particle": "zadermod:blocks/netherium_dirt"
+  }
+}

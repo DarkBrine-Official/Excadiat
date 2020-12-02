@@ -1,0 +1,29 @@
+{
+  "group": "zadermod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "zadermod:bronzeingot"
+    },
+    "1": {
+      "item": "zadermod:bronzeingot"
+    },
+    "2": {
+      "item": "zadermod:bronzeingot"
+    },
+    "3": {
+      "item": "zadermod:bronzeingot"
+    },
+    "5": {
+      "item": "zadermod:bronzeingot"
+    }
+  },
+  "result": {
+    "item": "zadermod:bronzearmorhelmet",
+    "count": 1
+  }
+}

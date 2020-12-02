@@ -1,0 +1,13 @@
+{
+  "group": "zadermod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zadermod:indianoaklog"
+    }
+  ],
+  "result": {
+    "item": "zadermod:indianoakplanks",
+    "count": 4
+  }
+}

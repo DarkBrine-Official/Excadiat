@@ -1,0 +1,13 @@
+{
+  "group": "zadermod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zadermod:bronzeblock"
+    }
+  ],
+  "result": {
+    "item": "zadermod:bronzeingot",
+    "count": 9
+  }
+}

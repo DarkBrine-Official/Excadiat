@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "zadermod:netherium_portal_ew"
+    },
+    "axis=x": {
+      "model": "zadermod:netherium_portal_ns"
+    },
+    "inventory": {
+      "model": "zadermod:netherium_portal_ns"
+    }
+  }
+}
